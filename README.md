@@ -1,8 +1,3 @@
-Perfecto 🔥 Rafael, aquí tienes el **README.md profesional y completo**, listo para subir a GitHub.
-Está redactado con estilo de herramienta CLI avanzada, optimizado para SEO, con estructura clara, secciones técnicas, firma personal y licencia MIT.
-
----
-
 # 🎥 Remove Watermark Auto
 
 **Elimina marcas de agua en vídeos de forma automática y profesional con Python y OpenCV.**
