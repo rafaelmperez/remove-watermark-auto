@@ -1,0 +1,18 @@
+# 🧠 Entorno virtual y cachés
+venv/
+__pycache__/
+*.pyc
+
+# 🎥 Archivos de salida
+output/
+*.mp4
+*.avi
+*.mov
+
+# 🧪 Archivos temporales
+*.log
+*.tmp
+
+# 💻 Archivos del sistema
+.DS_Store
+Thumbs.db
