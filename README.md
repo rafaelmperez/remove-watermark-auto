@@ -132,18 +132,6 @@ python3 src/remove_watermark_auto.py video.mp4 -r 6
 
 ---
 
-## 🧪 Ejemplo visual (demo simulada)
-
-```text
-🆕 Puerto abierto: 9929/tcp - Servicio: nping-echo
-❌ Puerto cerrado: 8080/tcp - Servicio: http-proxy
-🔁 Cambio: puerto 22/tcp cambió de OpenSSH 6.6 a OpenSSH 9.0
-```
-
-> Ejemplo visual de comparación frame a frame durante el proceso.
-
----
-
 ## 🔍 Palabras clave (SEO)
 
 <!-- keywords: python opencv watermark removal video automation linux ffmpeg inpainting codebyralph rafaelmperez -->
